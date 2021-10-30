@@ -17,5 +17,14 @@
 			"students-title": "TEAM Member",
 			"students-text": "I worked with student P-- as she navigated her way through the challenges of her semester as a GED student. With the support of the campus Student Success Strategist, I helped P-- through some tough decisions regarding her academic goals."
 		}
+	],
+	"classroom-group": [
+		{
+			"students-title": "Flipped Classroom"
+		},
+		{
+			"students-title": "<em>They Say, I say</em>",
+			"students-text": "This text will be updated to the 5th edition in 2021. I remain consistently impressed with the value, ease of use (design), accessibility (content) of this book. Professor Richard Chan asked me for recommendations on how to support student writing labs, and we settled on a chapter from this book called \"Writing in the Sciences.\" It is useful across disciplines."
+		}
 	]
 }
