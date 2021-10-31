@@ -21,22 +21,32 @@
 	"classroom-group": [
 		{
 			"students-title": "Flipped Classroom",
-			"students-text": "Classroom Group Text"
+			"students-text": "Classroom Group Text",
+			"classroomTitle": "Classroom Group Title",
+			"classroomText": "Classroom Group Text"
 		},
 		{
 			"students-title": "<em>They Say, I say</em>",
-			"students-text": "This text will be updated to the 5th edition in 2021. I remain consistently impressed with the value, ease of use (design), accessibility (content) of this book. Professor Richard Chan asked me for recommendations on how to support student writing labs, and we settled on a chapter from this book called \"Writing in the Sciences.\" It is useful across disciplines."
+			"students-text": "This text will be updated to the 5th edition in 2021. I remain consistently impressed with the value, ease of use (design), accessibility (content) of this book. Professor Richard Chan asked me for recommendations on how to support student writing labs, and we settled on a chapter from this book called \"Writing in the Sciences.\" It is useful across disciplines.",
+			"classroomTitle": "Classroom Group Title",
+			"classroomText": "Classroom Group Text"
 		},
 		{
 			"students-title": "Reading in the classroom",
-			"students-text": "Classroom Group Text"
+			"students-text": "Classroom Group Text",
+			"classroomTitle": "Classroom Group Title",
+			"classroomText": "Classroom Group Text"
 		},
 		{
 			"students-title": "ELL in the Classroom",
-			"students-text": "Classroom Group Text"
+			"students-text": "Classroom Group Text",
+			"classroomTitle": "Classroom Group Title",
+			"classroomText": "Classroom Group Text"
 		},
 		{
-			"students-title": "Teaching Grammar"
+			"students-title": "Teaching Grammar",
+			"classroomTitle": "Classroom Group Title",
+			"classroomText": "Classroom Group Text"
 		}
 	],
 	"courses-group": [
@@ -48,7 +58,30 @@
 	"courses-taught-group": [
 		{
 			"students-title": "Courses Taught Title",
-			"students-text": "Courses Taught Text"
+			"students-text": "Courses Taught Text",
+			"coursesTaughtTitle": "Courses Taught Title",
+			"coursesTaughtText": "Courses Taught Text"
+		}
+	],
+	"currEmpDate": "Aug 2013-Present",
+	"currEmpTitle": "Associate Professor (tenured), Triton College, River Grove, IL",
+	"currEmpDuties": "\n          <p>Duties include: lecture, course development for RHT 101 &amp; 102:</p>\n          <ul>\n            <li>Rhetoric &amp; Composition 1 &amp; 2</li>\n            <li><a href=\"https://rht101.wordpress.com/\" target=\"_blank\">rht101.wordpress.com</a></li>\n            <li><a href=\"https://rht102.wordpress.com/\" target=\"_blank\">rht102.wordpress.com</a></li>\n            <li>ENG 101: Introduction to Poetry, and English Dept. Assessment Committee Chairperson (2017-19)</li>\n          </ul>\n        ",
+	"interestsList": "\n        <ul class=\"interests\">\n          <li>Travel</li>\n          <li>Online Shopping</li>\n          <li>Gardening</li>\n          <li>Reading</li>\n          <li>Metaphors</li>\n          <li>Theology</li>\n          <li>Biblical Literacy</li>\n          <li>Concept of a Faithful Life</li>\n          <li>Libraries &amp; Old Bookstores</li>\n          <li>Really Good Food</li>\n          <li>Haruki Murakami</li>\n          <li>Alice Munro</li>\n          <li>Inline Skating</li>\n          <li>East Asia</li>\n        </ul>\n      ",
+	"gardeningText": "\n        <p>I have been a community gardener since 2015 and have been growing food in Urban Environments including the practice of microgreen cultivation in 2020. This year, 2020, I also expanded the garden by adding a second location because of food deficits in the local community. Joblessness and food insecurity have become a challenge for many residents in our district due to the current pandemic. Our church community continues to maintain a connection with the local food banks, supply items in support of addressing food deficits.</p>\n        <p>From the Summer 2020 Garden in Maywood, we harvested and gave to the community 24 butternut squash, 30+ ears of corn, bunches of green beans, onions, and 20+ lbs of tomatoes. More shared food from the Fall 2020 garden includes radish, beets, chard, kale, spinach, collard greens, onion, basil, broccoli, carrots, buttercrunch lettuce. All of this is for sharing with the community. The Fall 2020 Garden is part of the Greens and Microgreens Initiative that I started in a second location in Forest Park in an accessible location on Harlem Ave. This location is adjacent to a parking lot of one of the Housing Forward shelter locations and is open to the community. It is a garden that hosts fall vegetables amenable to growing in cool weather environments (beyond frost or below 20 degrees F).</p>\n        <p>None of the gardens utilize hydro-/aquaponics. None of the gardens use pesticides. All are grown from seed. All are outdoors.</p>\n      ",
+	"culturalAdaptabilityGroup": {
+		"culturalAdaptabilityTitle": "Cultural Adaptability Title",
+		"culturalAdaptabilityText": "Cultural Adaptability Text"
+	},
+	"studentsGroup": [
+		{
+			"studentsTitle": "Academic Advisor",
+			"studentsText": "As an Academic Advisor I helped counsel students through their academic plans. I learned how to navigate our enrollment system and then provided guidance for students through the process of course selection."
+		}
+	],
+	"coursesGroup": [
+		{
+			"coursesTitle": "Courses Title",
+			"coursesText": "Courses Text"
 		}
 	]
 }
