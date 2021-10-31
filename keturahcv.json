@@ -24,29 +24,7 @@
 			"students-text": "Classroom Group Text",
 			"classroomTitle": "Flipped Classroom"
 		},
-		{
-			"students-title": "<em>They Say, I say</em>",
-			"students-text": "This text will be updated to the 5th edition in 2021. I remain consistently impressed with the value, ease of use (design), accessibility (content) of this book. Professor Richard Chan asked me for recommendations on how to support student writing labs, and we settled on a chapter from this book called \"Writing in the Sciences.\" It is useful across disciplines.",
-			"classroomTitle": "Classroom Group Title",
-			"classroomText": "Classroom Group Text"
-		},
-		{
-			"students-title": "Reading in the classroom",
-			"students-text": "Classroom Group Text",
-			"classroomTitle": "Classroom Group Title",
-			"classroomText": "Classroom Group Text"
-		},
-		{
-			"students-title": "ELL in the Classroom",
-			"students-text": "Classroom Group Text",
-			"classroomTitle": "Classroom Group Title",
-			"classroomText": "Classroom Group Text"
-		},
-		{
-			"students-title": "Teaching Grammar",
-			"classroomTitle": "Classroom Group Title",
-			"classroomText": "Classroom Group Text"
-		}
+		{}
 	],
 	"courses-group": [
 		{
